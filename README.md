@@ -38,6 +38,7 @@ Save and repeat for other VPN's
 7) nslookup
 8) ctr.sh
 9) h8mail
+10) pastebin
 
 ### Network
 
