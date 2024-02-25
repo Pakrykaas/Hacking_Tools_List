@@ -37,6 +37,7 @@ Save and repeat for other VPN's
 6) whois
 7) nslookup
 8) ctr.sh
+9) h8mail
 
 ### Network
 
